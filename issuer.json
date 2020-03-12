@@ -7,7 +7,7 @@
 "id": "https://raw.githubusercontent.com/raymondfx/blockchain-testnet/master/issuer.json",
 "name": "University of Nairobi",
 "url": "https://www.issuer.org",
-"introductionURL": "https://www.uonbi.ac.ke/intro/",
+"introductionURL": "https://www.issuer.org/intro/",
 "publicKey": [
 {
 "id": "ecdsa-koblitz-pubkey:0x30EA0f935C06a2CbcF1552329aaf1DE2366BCD07

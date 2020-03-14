@@ -6,8 +6,8 @@
 "type": "Profile",
 "id": "https://raw.githubusercontent.com/raymondfx/blockchain-testnet/master/bitcoin.json",
 "name": "University of Nairobi",
-"url": "https://www.dtl.co.ke",
-"introductionURL": "https://www.dtl.co.ke/intro/",
+"url": "https://www.dlt.co.ke",
+"introductionURL": "https://www.dlt.co.ke/intro/",
 "publicKey": [
 {
 "id": "ecdsa-koblitz-pubkey:1JoM9TAipPmh7XTZy6noMAtw35bvYy6X9t",
